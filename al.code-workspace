@@ -4,6 +4,9 @@
       "path": "BizLynx"
     },
     {
+      "path": "BizLynx.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
